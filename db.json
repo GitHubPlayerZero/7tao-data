@@ -1,5 +1,6 @@
 {
   "users": [ ],
+  "subscriptions": [ ],
   "tags": [
     { "id": 1, "name": "演出" },
     { "id": 2, "name": "音樂" },
