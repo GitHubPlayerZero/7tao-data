@@ -27,7 +27,7 @@
   "events": [
     {
       "id": 1,
-      "date": "2025/08/09",
+      "date": "2026/08/09",
       "sTime": "14:00",
       "eTime": "18:00",
       "title": "邪典電影派對——房間",
@@ -43,7 +43,7 @@
     },
     {
       "id": 2,
-      "date": "2025/08/22",
+      "date": "2026/08/22",
       "sTime": "19:30",
       "eTime": "22:00",
       "title": "怪舞俱樂部",
@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "date": "2025/08/30",
+      "date": "2026/08/30",
       "sTime": "09:00",
       "eTime": "22:00",
       "title": "哈利波特馬拉松",
@@ -75,7 +75,7 @@
     },
     {
       "id": 4,
-      "date": "2025/09/06",
+      "date": "2026/09/06",
       "sTime": "15:00",
       "eTime": "18:00",
       "title": "皮卡丘排球大賽",
@@ -91,7 +91,7 @@
     },
     {
       "id": 5,
-      "date": "2025/09/12",
+      "date": "2026/09/12",
       "sTime": "14:00",
       "eTime": "17:00",
       "title": "酒精路跑",
@@ -107,7 +107,7 @@
     },
     {
       "id": 6,
-      "date": "2025/09/21",
+      "date": "2026/09/21",
       "sTime": "10:00",
       "eTime": "17:00",
       "title": "展覽——我的房間",
@@ -123,7 +123,7 @@
     },
     {
       "id": 7,
-      "date": "2025/09/28",
+      "date": "2026/09/28",
       "sTime": "10:30",
       "eTime": "17:30",
       "title": "野營音樂祭",
@@ -139,7 +139,7 @@
     },
     {
       "id": 8,
-      "date": "2025/10/05",
+      "date": "2026/10/05",
       "sTime": "14:00",
       "eTime": "17:00",
       "title": "疊疊樂大賽",
@@ -155,7 +155,7 @@
     },
     {
       "id": 9,
-      "date": "2025/10/17",
+      "date": "2026/10/17",
       "sTime": "12:00",
       "eTime": "20:00",
       "title": "返老還童-制服聯誼",
@@ -171,7 +171,7 @@
     },
     {
       "id": 10,
-      "date": "2025/10/24",
+      "date": "2026/10/24",
       "sTime": "10:00",
       "eTime": "16:00",
       "title": "野外求生17天",
@@ -187,7 +187,7 @@
     },
     {
       "id": 11,
-      "date": "2025/10/26",
+      "date": "2026/10/26",
       "sTime": "14:00",
       "eTime": "17:00",
       "title": "耳熟能詳音樂祭",
@@ -203,7 +203,7 @@
     },
     {
       "id": 12,
-      "date": "2025/11/08",
+      "date": "2026/11/08",
       "sTime": "14:00",
       "eTime": "17:00",
       "title": "野營發呆大賽",
@@ -219,7 +219,7 @@
     },
     {
       "id": 13,
-      "date": "2025/12/19",
+      "date": "2026/12/19",
       "sTime": "20:00",
       "eTime": "22:00",
       "title": "AI 趨勢",
@@ -236,7 +236,7 @@
     },
     {
       "id": 14,
-      "date": "2025/11/21",
+      "date": "2026/11/21",
       "sTime": "20:00",
       "eTime": "22:30",
       "title": "切特居批踢",
@@ -252,7 +252,7 @@
     },
     {
       "id": 15,
-      "date": "2025/11/14",
+      "date": "2026/11/14",
       "sTime": "19:00",
       "eTime": "22:00",
       "title": "隔牆有耳-沒有草東的派對",
@@ -269,7 +269,7 @@
     },
     {
       "id": 16,
-      "date": "2024/04/04",
+      "date": "2025/04/04",
       "sTime": "19:00",
       "eTime": "21:00",
       "title": "無聲派對-閉閉嘴dancing",
@@ -288,7 +288,7 @@
     },
     {
       "id": 17,
-      "date": "2024/05/12",
+      "date": "2025/05/12",
       "sTime": "13:30",
       "eTime": "17:00",
       "title": "拯救老店大作戰",
@@ -309,7 +309,7 @@
     },
     {
       "id": 18,
-      "date": "2024/06/18",
+      "date": "2025/06/18",
       "sTime": "10:00",
       "eTime": "18:00",
       "title": "內觀修行-部落篇",
@@ -342,6 +342,87 @@
       "isOnSale": false,
       "albumPhotos": [
         "https://i.imgur.com/E4DUEim.jpeg"
+      ],
+      "isBanner": false,
+      "bannerDesc": ""
+    },
+    {
+      "id": 20,
+      "date": "2024/09/16",
+      "sTime": "13:00",
+      "eTime": "16:30",
+      "title": "一起玩陶土",
+      "subTitle": "用雙手與泥土對話，創造屬於你的器物之美。",
+      "opening": "一把陶土，一雙手，形塑出內心的模樣。",
+      "desc": "這是一場適合大人小孩共同參與的陶藝體驗活動。由專業陶藝老師帶領，透過捏陶、拉胚、上色等步驟，讓親子在互動中學習、創作，感受泥土的溫度與創意的樂趣。無需任何經驗，只需帶上好奇與耐心，就能創作出屬於你們的小碗、小杯或童趣作品。\n不只是手作，更是一段親密又溫馨的親子時光，讓每一件陶器都承載著笑聲與回憶。",
+      "img":
+      "https://images.unsplash.com/photo-1595351298020-038700609878?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [ 14, 13 ],
+      "isOnSale": false,
+      "albumPhotos": [
+        "https://plus.unsplash.com/premium_photo-1683121097518-c4b59155e9a7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1683121110012-ecd5db061927?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "isBanner": false,
+      "bannerDesc": ""
+    },
+    {
+      "id": 21,
+      "date": "2025/04/06",
+      "sTime": "14:00",
+      "eTime": "18:00",
+      "title": "光影之間的城市散步",
+      "subTitle": "跟著攝影師的鏡頭，重新認識白天與夜晚的城市樣貌。",
+      "opening": "",
+      "desc": "這是一場攝影導覽活動，邀請你以慢步調走進熟悉卻陌生的城市街頭。由攝影師領路，從黃昏到夜晚，一邊介紹基礎攝影技巧與觀景構圖，一邊探索光影如何在建築、街道與人群之間遊走。\n參與者可自備相機或手機，在城市轉角捕捉那些被忽略的日常美感。現場亦會提供實作小任務，鼓勵大家以自己的角度紀錄當下，並於活動尾聲分享拍攝成果。\n無論是攝影初學者或城市觀察愛好者，都能在這段散步中找到靈感與連結。",
+      "img": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [ 20, 14, 16 ],
+      "isOnSale": false,
+      "albumPhotos": [
+        "https://images.unsplash.com/photo-1567821181603-2b4fac16ef0b?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1543468984-7e5d79855ec7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1740979011439-f06b07be448f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1715098650323-3b2dad3ab8f7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "isBanner": false,
+      "bannerDesc": ""
+    },
+    {
+      "id": 22,
+      "date": "2025/07/03",
+      "sTime": "11:00",
+      "eTime": "16:00",
+      "title": "瘋狂遊戲王",
+      "subTitle": "輕鬆破冰不尷尬，用遊戲找到合拍的朋友～",
+      "opening": "",
+      "desc": "是不是超愛玩桌遊但又常常找不到一起玩的同好？不管你是老手、中手、小白，只要愛玩就來！在輕鬆舒適的空間中，參加者將透過各類趣味桌遊互動，無需尷尬開場白，也不怕冷場，讓歡笑與默契自然萌芽。\n活動會依遊戲節奏安排換桌制度，讓你有機會與不同對象交流，快速找到頻率相近的夥伴。從合作型遊戲到競賽型挑戰，每一輪都是加分的機會，也可能是緣分的開端。\n不論是想交朋友、找隊友，還是單純想放鬆玩樂，都歡迎加入這場歡樂又高效的社交冒險！",
+      "img": "https://images.unsplash.com/photo-1632501641765-e568d28b0015?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [ 19, 12 ],
+      "isOnSale": false,
+      "albumPhotos": [
+        "https://plus.unsplash.com/premium_photo-1664478383014-e8bc930be7c2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549056572-75914d5d5fd4?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1661114544971-0aee18c148d4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "isBanner": false,
+      "bannerDesc": ""
+    },
+    {
+      "id": 23,
+      "date": "2024/08/10",
+      "sTime": "10:00",
+      "eTime": "19:00",
+      "title": "列印未來",
+      "subTitle": "走進未來世界的製造現場，探索 3D 列印的無限可能！",
+      "opening": "預見科技，觸摸未來的雛形！",
+      "desc": "從醫療器材到太空建築，從智能穿戴到仿生設計，3D 列印正重新定義「製造」的想像邊界。現場展出多件跨產業創作，展示科技如何實現個人化、低耗能、零庫存的未來製程模式。互動區域更讓參觀者親手操作簡易設計，體驗從概念成形的過程。\n無論你關心創新科技、產業轉型或未來生活型態，都能在這裡找到啟發。一起預見未來世界，感受科技如何改變日常。",
+      "img": "https://images.unsplash.com/photo-1642969164999-979483e21601?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [ 8, 18 ],
+      "isOnSale": false,
+      "albumPhotos": [
+        "https://plus.unsplash.com/premium_photo-1716396589811-69274847ce9f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1714859729164-5e5b6af0db28?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1679152411070-3d72d90e64f1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "isBanner": false,
       "bannerDesc": ""
@@ -383,6 +464,14 @@
     { "id": 33, "eventId": 17, "type": "普通票", "price": 310, "qtyTotal": 60, "qtyStock": 20 },
     { "id": 34, "eventId": 18, "type": "普通票", "price": 300, "qtyTotal": 20, "qtyStock": 8 },
     { "id": 35, "eventId": 18, "type": "交通票（接駁車）", "price": 500, "qtyTotal": 20, "qtyStock": 11 },
-    { "id": 36, "eventId": 19, "type": "普通票", "price": 500, "qtyTotal": 100, "qtyStock": 22 }
+    { "id": 36, "eventId": 19, "type": "普通票", "price": 500, "qtyTotal": 100, "qtyStock": 22 },
+    { "id": 37, "eventId": 20, "type": "普通票", "price": 550, "qtyTotal": 20, "qtyStock": 7 },
+    { "id": 38, "eventId": 20, "type": "親子票", "price": 900, "qtyTotal": 20, "qtyStock": 11 },
+    { "id": 39, "eventId": 21, "type": "普通票", "price": 400, "qtyTotal": 50, "qtyStock": 16 },
+    { "id": 40, "eventId": 22, "type": "普通票", "price": 800, "qtyTotal": 30, "qtyStock": 8 },
+    { "id": 41, "eventId": 23, "type": "普通票", "price": 250, "qtyTotal": 100, "qtyStock": 23 },
+    { "id": 42, "eventId": 23, "type": "普通票（含體驗區）", "price": 450, "qtyTotal": 100, "qtyStock": 45 },
+    { "id": 43, "eventId": 23, "type": "4 人團體票", "price": 850, "qtyTotal": 25, "qtyStock": 21 },
+    { "id": 44, "eventId": 23, "type": "4 人團體票（含體驗區）", "price": 1530, "qtyTotal": 25, "qtyStock": 19 }
   ]
 }
