@@ -54,8 +54,8 @@
       "tags": [ 1, 3, 11 ],
       "isOnSale": false,
       "albumPhotos": [ ],
-      "isBanner": false,
-      "bannerDesc": ""
+      "isBanner": true,
+      "bannerDesc": "跳舞太怪被朋友笑？來這裡，你的怪才是真才！怪舞俱樂部歡迎所有手腳不協調、節奏自由發展的靈魂。不論是左腳打右腳還是肢體亂飛，只要你敢跳，我們就敢頒獎！\n跟著音樂一起搖擺，一起解鎖舞林奇才的封號吧！"
     },
     {
       "id": 3,
@@ -102,8 +102,8 @@
       "tags": [ 7, 20, 19, 16 ],
       "isOnSale": true,
       "albumPhotos": [ ],
-      "isBanner": false,
-      "bannerDesc": ""
+      "isBanner": true,
+      "bannerDesc": "你身邊也有「千杯不醉」的朋友嗎？快邀請他參加「酒精路跑」，一起挑戰極限、留下爆笑回憶！我們將帶你探索市區多家風格酒吧，品嚐特色調酒。\n加入我們，舉杯開跑，體驗一場前所未有的城市微醺探險！"
     },
     {
       "id": 6,
@@ -231,8 +231,8 @@
       "tags": [ 21, 18, 9, 6 ],
       "isOnSale": true,
       "albumPhotos": [ ],
-      "isBanner": false,
-      "bannerDesc": ""
+      "isBanner": true,
+      "bannerDesc": "AI 正在重塑世界，你準備好了嗎？本活動邀請產業專家深入解析 AI 如何運用於各種層面，並分享第一線實務案例。\n無論你是開發者、管理者或是單純對未來科技感興趣，這都是一次不可錯過的趨勢探索！"
     },
     {
       "id": 14,
