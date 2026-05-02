@@ -15,15 +15,21 @@
 
 ## 本機運行
 
-下載後若想運行於本機，請先安裝套件：
+1. **安裝專案**
+   ```bash
+   git clone https://github.com/GitHubPlayerZero/7tao-data.git
+   cd 7tao-data
+   npm install
+   ```
 
-```javascript
-npm i
-```
+2. **啟動本機 JSON Server**
+   ```bash
+   npm run start
+   # 服務預設運行於 http://localhost:3000
+   ```
+---
 
-<br>
-
-### 腳本說明
+## 腳本說明
 
 - `npm run start`<br>
   啟動 Node Server 作為 JSON Server 服務，異動資料時**不會**實際寫入 db.json，**具有身份驗證功能**。<br>
@@ -32,12 +38,6 @@ npm i
   直接啟動 JSON Server 服務，**本機**須安裝 json-server 套件於**全域**，資料**會**實際寫入 db.json，本身**不**具有身份驗證功能。
 - `npm run auth`<br>
   啟動 JSON Server Auth 服務（本身亦為 JSON Server 服務），須於**此專案中**安裝 json-server、json-server-auth 套件，資料**會**實際寫入 db.json，**具有身份驗證功能**。
-
-<br>
-
-### JSON Server URL
-
-http://localhost:3000/
 
 ---
 
