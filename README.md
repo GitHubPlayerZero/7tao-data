@@ -45,9 +45,13 @@ http://localhost:3000/
 
 **server.js** 是一個 **Node.js 後端伺服器文件**，用於設置和運行 JSON Server，以下是主要功能。
 
+<br>
+
 ### 核心用途
 - **建立 RESTful API 伺服器**：使用 `json-server` 套件，可以快速從 db.json 文件創建模擬 API。
-- **提供數據接口**：允許前端應用通過 HTTP 請求（GET、POST、PUT、DELETE）操作 JSON 數據。
+- **提供數據接口**：允許前端應用通過 HTTP 請求（GET、POST、PUT、PATCH、DELETE）操作 JSON 數據。
+
+<br>
 
 ### 主要功能模塊
 
@@ -58,6 +62,8 @@ http://localhost:3000/
 | **認證中間件** | 使用 `json-server-auth` 提供用戶認證功能 |
 | **中間件** | 應用默認的中間件（日誌記錄、靜態文件等） |
 | **端口監聽** | 在指定端口（默認 3000）上運行伺服器 |
+
+<br>
 
 ### 運作流程
 1. 引入依賴套件（CORS、JSON Server、認證模塊）
